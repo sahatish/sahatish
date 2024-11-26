@@ -6,7 +6,7 @@ I'm obsessed with technology and its potential to change the world.
 ## 🌟 About Me
 - 🎓 **Education:** Bachelor of Technology in Computer Science & Engineering  
 - 🏫 **University:** Parul University, Vadodara, Gujarat  
-- 🌱 **Currently Learning:** Web Development, Machine Learning, and Open Source Contribution  
+- 🌱 **Currently Learning:** full stack Web Development, DSA with java, and Open Source Contribution  
 - 💻 **Skills:**  HTML, CSS, JavaScript, bootstrap  
 - 🌐 **Hobbies:** Coding, Blogging, and Exploring New Technologies  
 - 🎯 **Career Goal:** To become a skilled software developer contributing to impactful projects.  
