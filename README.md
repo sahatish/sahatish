@@ -7,14 +7,14 @@ I'm constantly learning and exploring new technologies in computer science and s
 - 🎓 **Education:** Bachelor of Technology in Computer Science & Engineering  
 - 🏫 **University:** Parul University, Vadodara, Gujarat  
 - 🌱 **Currently Learning:** Web Development, Machine Learning, and Open Source Contribution  
-- 💻 **Skills:** C, C++, Python, HTML, CSS, JavaScript, Git  
+- 💻 **Skills:**  HTML, CSS, JavaScript, bootstrap  
 - 🌐 **Hobbies:** Coding, Blogging, and Exploring New Technologies  
 - 🎯 **Career Goal:** To become a skilled software developer contributing to impactful projects.  
 
 ## 📫 Let's Connect!
 - 🌍 [GitHub](https://github.com/atishkumarsah)  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- 📧 Email: sahatish1st456@gmail.com  
+- 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/atish-sah-8a1a9b260)  
 - 🌱 Fun Fact: I believe learning never stops and love solving coding challenges.  
 
 ---
