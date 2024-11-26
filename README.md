@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Atish Kumar Sah!
 
-I'm a passionate **B.Tech CSE** student at [Parul University](https://www.paruluniversity.ac.in/), Vadodara, Gujarat.  
-I'm constantly learning and exploring new technologies in computer science and software development.
+Hey there! I'm Atish Kumar Sah, a B.Tech CSE student at Parul University in Gujarat.
+I'm obsessed with technology and its potential to change the world.
 
 ## 🌟 About Me
 - 🎓 **Education:** Bachelor of Technology in Computer Science & Engineering  
