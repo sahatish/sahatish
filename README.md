@@ -10,8 +10,8 @@ I'm Atish, a **B.Tech CSE** student at Parul University, Gujarat. Passionate abo
 const atish = {
   education: "B.Tech in Computer Science & Engineering",
   university: "Parul University, Gujarat",
-  currentlyLearning: ["Full-Stack Web Development", "DSA with Java", "Open Source Contribution"],
-  skills: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+  currentlyLearning: ["Full-Stack Web Development", "DSA ", "Open Source Contribution"],
+  skills: ["HTML", "CSS", "JavaScript", "Bootstrap","git(version control)],
   hobbies: ["Coding", "Blogging", "Exploring New Tech"],
   careerGoal: "To build impactful software and solve real-world problems!",
 };
