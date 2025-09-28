@@ -11,7 +11,7 @@ const atish = {
   education: "B.Tech in Computer Science & Engineering",
   university: "Parul University, Gujarat",
   currentlyLearning: ["Full-Stack Web Development", "DSA ", "Open Source Contribution"],
-  skills: ["HTML", "CSS", "JavaScript", "Bootstrap","git(version control)],
+  skills: ["HTML", "CSS", "JavaScript","React.js", "MongoDB", "Express.js", "Node.js", "Bootstrap","git(version control)],
   hobbies: ["Coding", "Blogging", "Exploring New Tech"],
   careerGoal: "To build impactful software and solve real-world problems!",
 };
