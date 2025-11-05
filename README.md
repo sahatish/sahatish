@@ -48,12 +48,12 @@
 ## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atishkumarsah&show_icons=true&theme=tokyonight" alt="Atish's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atishkumarsah&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahatish&show_icons=true&theme=tokyonight" alt="Atish's GitHub stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahatish&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishkumarsah&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahatish&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
