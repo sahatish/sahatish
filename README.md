@@ -10,7 +10,7 @@
 ## 🧑‍💻 Who Am I?
 
 💡 **B.Tech CSE Student** at *Parul University, Gujarat*  
-🚀 Passionate about **Full-Stack Web Development (MERN)**, **DSA**, and **Open Source Contribution**  
+🚀 Passionate about **Full-Stack Web Development (MERN)**, **DSA**  
 🌱 Constantly exploring **new technologies** and building **impactful projects**  
 🎯 Goal: To create scalable solutions that make a difference in the real world  
 
