@@ -40,7 +40,7 @@
    💻 Building scalable web applications with modern tech stacks.  
 3. **Open Source Contributions**  
    🤝 Collaborating to make the developer community stronger.  
-4. **DSA Practice**  
+4. **DSA**  
    🧠 Solving real-world algorithmic problems efficiently.
 
 ---
