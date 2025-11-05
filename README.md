@@ -10,7 +10,7 @@
 ## 🧑‍💻 Who Am I?
 
 💡 **B.Tech CSE Student** at *Parul University, Gujarat*  
-🚀 Passionate about **Full-Stack Web Development (MERN)**, **DSA**  
+🚀 Passionate about **Full-Stack Web Development (MERN)**, **DSA-JAVA**  
 🌱 Constantly exploring **new technologies** and building **impactful projects**  
 🎯 Goal: To create scalable solutions that make a difference in the real world  
 
@@ -34,7 +34,7 @@
 
 ## 🧩 Projects That Define Me
 
-1. **AgriConnect (Hackathon Project)**  
+1. **AgriConnect**  
    🌾 Smart platform empowering farmers with digital tools for productivity.  
 2. **MERN Stack Apps**  
    💻 Building scalable web applications with modern tech stacks.  
@@ -69,13 +69,13 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/atishkumarsah">
+  <a href="https://github.com/sahatish">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" />
   </a>
   <a href="mailto:sahatish1st456@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/atish-sah-8a1a9b260">
+  <a href="https://www.linkedin.com/in/atish-sah-8a1a9b260/">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
